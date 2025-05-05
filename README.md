@@ -1,3 +1,5 @@
+https://owarpero.github.io/ITMO_ICT_WebDevelopment_tools_2024-2025/
+
 # ITMO_ICT_WebDevelopment_tools_2024-2025
 
 Репозиторий для реализации дистанционного обучения по дисциплине "Соедства Web-программирования".
